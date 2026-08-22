@@ -1,7 +1,7 @@
 # Sample-Superstore-Sales--Dashboard
 Intreractive Excel Sales Dashboard built using the Sample Superstore Dataset.
 ## 📊 Project Overview
-
+![Dashboard](Dashboard-view.png)
 Interactive Excel dashboard created using the Sample Superstore dataset.
 
 ## 🛠️ Tools Used
