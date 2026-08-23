@@ -25,3 +25,4 @@ Interactive Excel dashboard created using the Sample Superstore dataset.
 ## 🎯 Objective
 
 To analyze sales performance and present key business insights through an interactive dashboard.
+"if you like this Project Please give it a Star".
